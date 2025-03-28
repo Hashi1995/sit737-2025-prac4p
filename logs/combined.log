@@ -1,0 +1,30 @@
+{"level":"info","message":"Substraction: 10 - 5 = 5","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 6 + 5 = 11","service":"calculator-microservice"}
+{"level":"info","message":"Substraction: 6 - 5 = 1","service":"calculator-microservice"}
+{"level":"info","message":"Multipication: 6 * 5 = 30","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 5 = 1.2","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 5 = 1.2","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 5 = 1.2","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 5 = 1.2","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 5 = 1.2","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 5 = 1.2","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 5 = 1.2","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 5 = 1.2","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 0 = Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 0 = Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 0 = Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 0 = Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 0 = Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 0 = Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 0 = Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 0 = Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 0 = Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 0 = Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 0 = Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 4 = 1.5","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 4 = 1.5","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 4 = 1.5","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 6 / 4 = 1.5","service":"calculator-microservice"}
+{"level":"error","message":"calculation Error: n1 and n2 should be valid - Request: /add?n1=abc&n2=10 - Query: {\"n1\":\"abc\",\"n2\":\"10\"}","service":"calculator-microservice"}
+{"level":"error","message":"calculation Error: n1 and n2 should be valid - Request: /add?n1=xxx&n2=aaa - Query: {\"n1\":\"xxx\",\"n2\":\"aaa\"}","service":"calculator-microservice"}
+{"level":"error","message":"calculation Error: n1 and n2 should be valid - Request: /add?n1=xxx&n2=aaa - Query: {\"n1\":\"xxx\",\"n2\":\"aaa\"}","service":"calculator-microservice"}

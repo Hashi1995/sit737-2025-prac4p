@@ -1,0 +1,3 @@
+{"level":"error","message":"calculation Error: n1 and n2 should be valid - Request: /add?n1=abc&n2=10 - Query: {\"n1\":\"abc\",\"n2\":\"10\"}","service":"calculator-microservice"}
+{"level":"error","message":"calculation Error: n1 and n2 should be valid - Request: /add?n1=xxx&n2=aaa - Query: {\"n1\":\"xxx\",\"n2\":\"aaa\"}","service":"calculator-microservice"}
+{"level":"error","message":"calculation Error: n1 and n2 should be valid - Request: /add?n1=xxx&n2=aaa - Query: {\"n1\":\"xxx\",\"n2\":\"aaa\"}","service":"calculator-microservice"}
